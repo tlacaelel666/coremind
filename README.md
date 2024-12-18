@@ -37,9 +37,9 @@ El proyecto está organizado en los siguientes módulos principales:
 ## Instalación y Ejecución
 
 1.  **Clonar el repositorio:**
-    ```bash
-    git clone [URL del repositorio]
-    cd [nombre del repositorio]
+    ```bashgh repo clone tlacaelel666/coremind
+    git clone 
+    cd coremind
     ```
 2.  **Crear un entorno virtual:** (Recomendado)
     ```bash
@@ -55,4 +55,3 @@ El proyecto está organizado en los siguientes módulos principales:
 4. **Ejecutar el Programa:**
    ```bash
    python main.py# app
-# app
