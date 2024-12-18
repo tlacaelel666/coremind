@@ -1,0 +1,2 @@
+# coremind
+AI cognitive
